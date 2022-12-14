@@ -1,4 +1,5 @@
-using System;
+﻿using System;
+using System.Text;
 
 namespace SwitchCase
 {
@@ -21,7 +22,7 @@ namespace SwitchCase
             switch (pt)
             {
                 case "+" when num1 > 0 && num2 > 0:
-                    Console.WriteLine(num1+num2);
+                    Console.WriteLine(num1 + num2);
                     break;
                 case "-" when num1 > num2:
                     Console.WriteLine(num1 - num2);
@@ -40,10 +41,10 @@ namespace SwitchCase
             Console.WriteLine(
                     pt switch
                     {
-                        "+" when num1 > 0 && num2 > 0   => num1 + num2,
-                        "-" when num1 > num2            => num1 - num2,
-                        "*"                             => num1 * num2,
-                        "/" when num2 != 0              => num1 / num2
+                        "+" when num1 > 0 && num2 > 0 => num1 + num2,
+                        "-" when num1 > num2 => num1 - num2,
+                        "*" => num1 * num2,
+                        "/" when num2 != 0 => num1 / num2
                     }
             );
         }
