@@ -1,0 +1,13 @@
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\bin\Debug\netcoreapp3.1\QuestionMark.exe
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\bin\Debug\netcoreapp3.1\QuestionMark.deps.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\bin\Debug\netcoreapp3.1\QuestionMark.runtimeconfig.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\bin\Debug\netcoreapp3.1\QuestionMark.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\bin\Debug\netcoreapp3.1\QuestionMark.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\bin\Debug\netcoreapp3.1\QuestionMark.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\obj\Debug\netcoreapp3.1\QuestionMark.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\obj\Debug\netcoreapp3.1\QuestionMark.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\obj\Debug\netcoreapp3.1\QuestionMark.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\obj\Debug\netcoreapp3.1\QuestionMark.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\obj\Debug\netcoreapp3.1\QuestionMark.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\obj\Debug\netcoreapp3.1\QuestionMark.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\QuestionMark\obj\Debug\netcoreapp3.1\QuestionMark.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\obj\Debug\netcoreapp3.1\ForeachWhile.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\obj\Debug\netcoreapp3.1\ForeachWhile.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\obj\Debug\netcoreapp3.1\ForeachWhile.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\obj\Debug\netcoreapp3.1\ForeachWhile.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\bin\Debug\netcoreapp3.1\ForeachWhile.exe
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\bin\Debug\netcoreapp3.1\ForeachWhile.deps.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\bin\Debug\netcoreapp3.1\ForeachWhile.runtimeconfig.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\bin\Debug\netcoreapp3.1\ForeachWhile.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\bin\Debug\netcoreapp3.1\ForeachWhile.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\bin\Debug\netcoreapp3.1\ForeachWhile.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\obj\Debug\netcoreapp3.1\ForeachWhile.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\obj\Debug\netcoreapp3.1\ForeachWhile.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ForeachWhile\obj\Debug\netcoreapp3.1\ForeachWhile.genruntimeconfig.cache
