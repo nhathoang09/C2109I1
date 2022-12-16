@@ -1,0 +1,12 @@
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\bin\Debug\netcoreapp3.1\ArgumentAndParams.exe
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\bin\Debug\netcoreapp3.1\ArgumentAndParams.deps.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\bin\Debug\netcoreapp3.1\ArgumentAndParams.runtimeconfig.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\bin\Debug\netcoreapp3.1\ArgumentAndParams.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\bin\Debug\netcoreapp3.1\ArgumentAndParams.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\bin\Debug\netcoreapp3.1\ArgumentAndParams.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\obj\Debug\netcoreapp3.1\ArgumentAndParams.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\obj\Debug\netcoreapp3.1\ArgumentAndParams.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\obj\Debug\netcoreapp3.1\ArgumentAndParams.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\obj\Debug\netcoreapp3.1\ArgumentAndParams.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\obj\Debug\netcoreapp3.1\ArgumentAndParams.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\ArgumentAndParams\obj\Debug\netcoreapp3.1\ArgumentAndParams.genruntimeconfig.cache
