@@ -1,0 +1,13 @@
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\bin\Debug\netcoreapp3.1\OopAbstraction.exe
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\bin\Debug\netcoreapp3.1\OopAbstraction.deps.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\bin\Debug\netcoreapp3.1\OopAbstraction.runtimeconfig.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\bin\Debug\netcoreapp3.1\OopAbstraction.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\bin\Debug\netcoreapp3.1\OopAbstraction.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\bin\Debug\netcoreapp3.1\OopAbstraction.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\obj\Debug\netcoreapp3.1\OopAbstraction.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\obj\Debug\netcoreapp3.1\OopAbstraction.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\obj\Debug\netcoreapp3.1\OopAbstraction.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\obj\Debug\netcoreapp3.1\OopAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\obj\Debug\netcoreapp3.1\OopAbstraction.dll
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\obj\Debug\netcoreapp3.1\OopAbstraction.pdb
+C:\Users\APTECH\source\repos\C2109I1\CSharp\OopAbstraction\obj\Debug\netcoreapp3.1\OopAbstraction.genruntimeconfig.cache
