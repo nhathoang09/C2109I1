@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharp",
+    "\\CSharp\\QuestionMark",
+    "\\CSharp\\SwitchCase"
   ],
+  "SelectedNode": "\\CSharp\\CSharp.sln",
   "PreviewInSolutionExplorer": false
 }
