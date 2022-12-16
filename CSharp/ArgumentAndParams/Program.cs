@@ -20,6 +20,10 @@ namespace ArgumentAndParams
             argu.Display(c: 6, b: 5, a: 4);
 
             argu.Show(10,5);
+
+            argu.SumParam(1, 2, 3, 4, 5);
+            int[] mang = { 1, 2, 3, 4, 5, 6 };
+            argu.SumParam(mang);
         }
     }
 }
