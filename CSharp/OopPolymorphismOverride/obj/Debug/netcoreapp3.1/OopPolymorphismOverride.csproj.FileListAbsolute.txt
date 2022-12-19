@@ -1,0 +1,12 @@
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\bin\Debug\netcoreapp3.1\OopPolymorphismOverride.exe
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\bin\Debug\netcoreapp3.1\OopPolymorphismOverride.deps.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\bin\Debug\netcoreapp3.1\OopPolymorphismOverride.runtimeconfig.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\bin\Debug\netcoreapp3.1\OopPolymorphismOverride.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\bin\Debug\netcoreapp3.1\OopPolymorphismOverride.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\bin\Debug\netcoreapp3.1\OopPolymorphismOverride.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\obj\Debug\netcoreapp3.1\OopPolymorphismOverride.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\obj\Debug\netcoreapp3.1\OopPolymorphismOverride.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\obj\Debug\netcoreapp3.1\OopPolymorphismOverride.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\obj\Debug\netcoreapp3.1\OopPolymorphismOverride.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\obj\Debug\netcoreapp3.1\OopPolymorphismOverride.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismOverride\obj\Debug\netcoreapp3.1\OopPolymorphismOverride.genruntimeconfig.cache

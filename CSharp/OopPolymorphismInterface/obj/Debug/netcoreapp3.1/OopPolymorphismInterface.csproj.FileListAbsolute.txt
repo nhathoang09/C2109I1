@@ -1,0 +1,13 @@
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\bin\Debug\netcoreapp3.1\OopPolymorphismInterface.exe
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\bin\Debug\netcoreapp3.1\OopPolymorphismInterface.deps.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\bin\Debug\netcoreapp3.1\OopPolymorphismInterface.runtimeconfig.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\bin\Debug\netcoreapp3.1\OopPolymorphismInterface.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\bin\Debug\netcoreapp3.1\OopPolymorphismInterface.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\bin\Debug\netcoreapp3.1\OopPolymorphismInterface.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\obj\Debug\netcoreapp3.1\OopPolymorphismInterface.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\obj\Debug\netcoreapp3.1\OopPolymorphismInterface.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\obj\Debug\netcoreapp3.1\OopPolymorphismInterface.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\obj\Debug\netcoreapp3.1\OopPolymorphismInterface.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\obj\Debug\netcoreapp3.1\OopPolymorphismInterface.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\obj\Debug\netcoreapp3.1\OopPolymorphismInterface.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopPolymorphismInterface\obj\Debug\netcoreapp3.1\OopPolymorphismInterface.genruntimeconfig.cache
