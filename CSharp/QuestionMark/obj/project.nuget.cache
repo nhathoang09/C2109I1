@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zqgZ4wtwVhz33tFbsEKM4Z/kzft1tPoeT2uIinhQKGOQ+vxq5NwmZVOwPqWr/3GDegVlzm2ClwPI8p3fmJBqHQ==",
+  "dgSpecHash": "2eAVWN6mV04vOTo9jM+HZOjYnbI9A2nyblQOP7b7hyNTK3KfvQ2m1MFbdrdAyMbgkssPhTZ5i13UiyGWgQl5Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\source\\repos\\C2109I1\\CSharp\\QuestionMark\\QuestionMark.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\QuestionMark\\QuestionMark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

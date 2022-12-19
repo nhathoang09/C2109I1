@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WL8O5pyijjAIXdqcR8RXt60s96fTU1Q370rPJ70KSmGhPTyAjacH00UMhUgjC/4d7JAU8PxgHTQFWONhAV11GQ==",
+  "dgSpecHash": "szv33XqARHXwU+WuatRz+n3lopEnJ9LXzuWqtYxymfRbBSzxCQ4qlZWbZiD/wjCPanas6pM4yuefwJXmpAgctg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\source\\repos\\C2109I1\\CSharp\\RegexTryParse\\RegexTryParse.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\RegexTryParse\\RegexTryParse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

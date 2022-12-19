@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "T2erbkq87ysLMg57yVfAAqLHQzlNQkIt027mFewvN1aiIQbTM4xzzPKzbW6BFOwrOPH80CaprSp/Q9e0Pwu00g==",
+  "dgSpecHash": "f2BaG5mTlV7PFVNYpOwzFHBV+rYvfZM0z7BsEPsWqCRAeGZccAsltdk1D3aaGLTyzQJf5+lTVzQhr1JCtU3tRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\source\\repos\\C2109I1\\CSharp\\OopAbstraction\\OopAbstraction.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopAbstraction\\OopAbstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

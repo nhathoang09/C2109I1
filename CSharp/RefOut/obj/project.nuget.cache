@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ynEAq5Y4fAixiq7ufBwAWZFodnhjnZzYTtkJa8YGd7dXurDH3MoXhXJneuL5fRgmx0Pnn/w6wjp5/EW3OxX+ug==",
+  "dgSpecHash": "9Mi2/29tuzVcdQyXXk2KbzJL2kgvomrXvCJkB7Ey8If1vAlhjthGXIMigbBMgS24mOevN1fht7SivgSsrW0Dtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\source\\repos\\C2109I1\\CSharp\\RefOut\\RefOut.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\RefOut\\RefOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

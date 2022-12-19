@@ -1,0 +1,13 @@
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\bin\Debug\netcoreapp3.1\OopEncapsulationProperty.exe
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\bin\Debug\netcoreapp3.1\OopEncapsulationProperty.deps.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\bin\Debug\netcoreapp3.1\OopEncapsulationProperty.runtimeconfig.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\bin\Debug\netcoreapp3.1\OopEncapsulationProperty.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\bin\Debug\netcoreapp3.1\OopEncapsulationProperty.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\bin\Debug\netcoreapp3.1\OopEncapsulationProperty.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\obj\Debug\netcoreapp3.1\OopEncapsulationProperty.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\obj\Debug\netcoreapp3.1\OopEncapsulationProperty.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\obj\Debug\netcoreapp3.1\OopEncapsulationProperty.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\obj\Debug\netcoreapp3.1\OopEncapsulationProperty.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\obj\Debug\netcoreapp3.1\OopEncapsulationProperty.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\obj\Debug\netcoreapp3.1\OopEncapsulationProperty.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\OopEncapsulationProperty\obj\Debug\netcoreapp3.1\OopEncapsulationProperty.genruntimeconfig.cache

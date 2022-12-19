@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GITlJ5G3YSuo2D4rFj2vYpEGXtWlGy60xeibF8n/eHQiaLhEuKEBeSX/+Mupllf66UDy4Y2GX244xLV8JpwDFA==",
+  "dgSpecHash": "R2jZ36YlFs+iwgaY+Hdq2QQVeb54IAqm/gMv5y6xFDMFFqO0tdkPhV+FyQw/xiWpx8JtNuwwkTOzQtO5X9QAyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\source\\repos\\C2109I1\\CSharp\\SwitchCase\\SwitchCase.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\SwitchCase\\SwitchCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
