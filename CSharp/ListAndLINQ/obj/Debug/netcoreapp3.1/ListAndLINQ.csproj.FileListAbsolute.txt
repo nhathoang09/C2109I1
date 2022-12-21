@@ -1,0 +1,13 @@
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\bin\Debug\netcoreapp3.1\ListAndLINQ.exe
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\bin\Debug\netcoreapp3.1\ListAndLINQ.deps.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\bin\Debug\netcoreapp3.1\ListAndLINQ.runtimeconfig.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\bin\Debug\netcoreapp3.1\ListAndLINQ.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\bin\Debug\netcoreapp3.1\ListAndLINQ.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\bin\Debug\netcoreapp3.1\ListAndLINQ.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\obj\Debug\netcoreapp3.1\ListAndLINQ.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\obj\Debug\netcoreapp3.1\ListAndLINQ.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\obj\Debug\netcoreapp3.1\ListAndLINQ.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\obj\Debug\netcoreapp3.1\ListAndLINQ.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\obj\Debug\netcoreapp3.1\ListAndLINQ.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\obj\Debug\netcoreapp3.1\ListAndLINQ.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ListAndLINQ\obj\Debug\netcoreapp3.1\ListAndLINQ.genruntimeconfig.cache

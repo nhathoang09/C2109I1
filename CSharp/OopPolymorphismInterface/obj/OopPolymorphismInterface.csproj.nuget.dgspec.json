@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj": {}
+    "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj": {
+    "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj",
+        "projectUniqueName": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj",
         "projectName": "OopPolymorphismInterface",
-        "projectPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj",
+        "projectPath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj",
         "packagesPath": "C:\\Users\\APTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\obj\\",
+        "outputPath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj": {}
+    "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj": {
+    "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj",
+        "projectUniqueName": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj",
         "projectName": "OopPolymorphismOverride",
-        "projectPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj",
+        "projectPath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\OopPolymorphismOverride.csproj",
         "packagesPath": "C:\\Users\\APTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\obj\\",
+        "outputPath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverride\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

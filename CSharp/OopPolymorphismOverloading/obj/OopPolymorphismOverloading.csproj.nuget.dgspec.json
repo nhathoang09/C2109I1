@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj": {}
+    "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj": {
+    "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
+        "projectUniqueName": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
         "projectName": "OopPolymorphismOverloading",
-        "projectPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
+        "projectPath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
         "packagesPath": "C:\\Users\\APTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\obj\\",
+        "outputPath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,13 @@
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.exe
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.deps.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.runtimeconfig.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.runtimeconfig.dev.json
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.AssemblyInfoInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.AssemblyInfo.cs
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.dll
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.pdb
+C:\Users\APTECH\source\repos\NhatHoang\CSharp\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.genruntimeconfig.cache

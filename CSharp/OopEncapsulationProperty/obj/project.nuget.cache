@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+EQz3geehSbeUf8Be15BEXDSaufEXm8WkORIBXYSUM0t1QXmuzqSlbpaUeHYnubONIkNMdsU3PEGKFpPiVgkA==",
+  "dgSpecHash": "GMzQ/G9fnNCW9kMeuSp8ZvySfl698LbX14k58ZI6T5avyyIiCuYgF4LqTJsYdLKzz/gPro5tZjJrVj7gTdpl9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopEncapsulationProperty\\OopEncapsulationProperty.csproj",
+  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopEncapsulationProperty\\OopEncapsulationProperty.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
