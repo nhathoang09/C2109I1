@@ -8,30 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\APTECH\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
       "projectName": "OopPolymorphismOverloading",
-      "projectPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
-      "packagesPath": "C:\\Users\\APTECH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APTECH\\source\\repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Source\\Repos\\C2109I1\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\APTECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -55,22 +51,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.25, 3.1.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

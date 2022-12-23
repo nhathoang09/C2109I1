@@ -57,54 +57,107 @@ namespace ListAndLINQ
             //style 2: theo trường phái lamda => method syntax, khó học, khó hiểu
 
             //Liệt kê tất cả sinh viên với mã sinh viên phải lớn hơn 2
-            foreach (var stu in list)
-            {
-                if(stu.RollNumber > 2)
-                {
-                    Console.WriteLine(stu);
-                }
-            }
+            //foreach (var stu in list)
+            //{
+            //    if(stu.RollNumber > 2)
+            //    {
+            //        Console.WriteLine(stu);
+            //    }
+            //}
 
-            Console.WriteLine("====================================================================");
+            //Console.WriteLine("====================================================================");
 
-            //linq to object style 1
-            //var liststu = from s in list where s.RollNumber > 2 select s;
-            //tìm tổng số sinh viên trong list
-            //Console.WriteLine(liststu.Count());
+            ////linq to object style 1
+            ////var liststu = from s in list where s.RollNumber > 2 select s;
+            ////tìm tổng số sinh viên trong list
+            ////Console.WriteLine(liststu.Count());
 
-            foreach(var ls in from s in list where s.RollNumber > 2 select s)
-            {
-                Console.WriteLine(ls);
-            }
+            //foreach(var ls in from s in list where s.RollNumber > 2 select s)
+            //{
+            //    Console.WriteLine(ls);
+            //}
 
-            Console.WriteLine("====================================================================");
+            //Console.WriteLine("====================================================================");
 
-            //linq to object style 2
-            //var liststu = list.Where(stu => stu.RollNumber > 2);
-            foreach(var ls in list.Where(stu => stu.RollNumber > 2))
-            {
-                Console.WriteLine(ls);
-            }
+            ////linq to object style 2
+            ////var liststu = list.Where(stu => stu.RollNumber > 2);
+            //foreach(var ls in list.Where(stu => stu.RollNumber > 2))
+            //{
+            //    Console.WriteLine(ls);
+            //}
 
-            Console.WriteLine("====================================================================");
+            //Console.WriteLine("====================================================================");
 
-            //các phương thức có sẵn trong list
-            list.ForEach(Console.WriteLine);
-            Console.WriteLine("====================================================================");
-            list.ForEach(
-                stu =>
-                {
-                    if (stu.RollNumber > 2)
-                    {
-                        Console.WriteLine(stu);
-                    }
-                }
-            );
+            ////các phương thức có sẵn trong list
+            //list.ForEach(Console.WriteLine);
+            //Console.WriteLine("====================================================================");
+            //list.ForEach(
+            //    stu =>
+            //    {
+            //        if (stu.RollNumber > 2)
+            //        {
+            //            Console.WriteLine(stu);
+            //        }
+            //    }
+            //);
 
-            Console.WriteLine("====================================================================");
+            //Console.WriteLine("====================================================================");
 
-            //kết hợp lamda với phương thức có sẵn của list
-            list.Where(stu => stu.RollNumber > 2).ToList().ForEach(Console.WriteLine);
+            ////kết hợp lamda với phương thức có sẵn của list
+            //list.Where(stu => stu.RollNumber > 2).ToList().ForEach(Console.WriteLine);
+
+            //var r = from stu in list where stu.RollNumber > 2 select new //anonymous type
+            //{
+            //    stu.RollNumber,
+            //    stu.FullName
+            //};
+            //r.ToList().ForEach(Console.WriteLine);
+
+            //var r = from stu in list
+            //        where stu.RollNumber > 2
+            //        select new //anonymous type
+            //        {
+            //            StudentDetail = $"{stu.RollNumber} : {stu.FullName}",
+            //            StudentRoom = $"{stu.Section} = {stu.HostelNumber}"
+            //        };
+            //r.ToList().ForEach(Console.WriteLine);
+
+            //list.Select(stu => new
+            //{
+            //    StudentDetail = $"{stu.RollNumber} : {stu.FullName}",
+            //    StudentRoom = $"{stu.Section} = {stu.HostelNumber}"
+            //}).ToList().ForEach(Console.WriteLine);
+
+            //foreach (var stu in list)
+            //{
+            //    Console.WriteLine(stu);
+            //}
+            //IEnumerator enu = list.GetEnumerator();
+            //while (enu.MoveNext())
+            //{
+
+            //}
+            //// từ khi có linq
+            //var t = from stu in list select stu;
+
+            ////select * from list where rollnumber > 2
+            //IEnumerable<Student> i = from stu in list where stu.RollNumber > 2 select stu;
+            ////là vào bộ nhớ loại bỏ chỉ lấy 2 dòng đầu tiên
+            //i = i.Take(2);
+            ////===============================
+            ////lần đầu tiên thực thi trên server và trả về bộ nhớ
+            ////select * from list where rollnumber > 2
+            //IQueryable<Student> u = from stu in list.AsQueryable() where stu.RollNumber > 2 select stu;
+            ////select top(2) * From list where rollnumber >3 
+            ////sẽ chạy lên server lần nữa
+            //u = u.Take(2);
+            ////===============================
+            //var k = from stu in list where stu.RollNumber > 2 select stu;
+            //k.ToList().ForEach(Console.WriteLine);
+
+            //sắp xếp 
+            //var obj1 = from stu in list orderby stu.Section descending, stu.HostelNumber ascending select stu;
+            //var obi2 = list.OrderByDescending(stu => stu.Section).OrderBy(stu => stu.HostelNumber);
         }
     }
 }

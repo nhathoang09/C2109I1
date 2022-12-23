@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S51mZxfEfcjBNQMnP5ElG+s3PQ2CFF3W/UX/MB0hsORn5GWv4xiCjWI05yLFb0m8oaFvCfWVeFfEMfL668og0g==",
+  "dgSpecHash": "MLKXXHf+bEzdT6YSvUm6g/KMImq2kExFMDNtsTocGhpa++XS4RzkSPtzXeIdh5o6JbwcZOrE3BboHDTO8u58ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\PartialClass\\PartialClass.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\PartialClass\\PartialClass.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

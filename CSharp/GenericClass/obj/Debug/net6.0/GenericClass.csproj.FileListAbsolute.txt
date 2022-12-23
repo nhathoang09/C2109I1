@@ -1,0 +1,5 @@
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\GenericClass\obj\Debug\net6.0\GenericClass.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\GenericClass\obj\Debug\net6.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfo.cs
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\GenericClass\obj\Debug\net6.0\GenericClass.csproj.CoreCompileInputs.cache

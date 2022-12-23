@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\bin\Debug\net6.0\DelegateCsharp.exe
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\bin\Debug\net6.0\DelegateCsharp.deps.json
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\bin\Debug\net6.0\DelegateCsharp.runtimeconfig.json
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\bin\Debug\net6.0\DelegateCsharp.dll
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\bin\Debug\net6.0\DelegateCsharp.pdb
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.dll
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\refint\DelegateCsharp.dll
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.pdb
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\DelegateCsharp.genruntimeconfig.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\DelegateCsharp\obj\Debug\net6.0\ref\DelegateCsharp.dll

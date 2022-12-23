@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+WyNdwlzgyU0kzUExgXBq/pM+SmOgzwfjVGxlIJJrRMlA/pRzGGsvYMv9BcjXGN5nAVf1vGXQ0wQvfS7cbH2Jw==",
+  "dgSpecHash": "F198TgOFoqqoKzBjo7G5UO/37wJzSW6mtZeNpClQ6q8zqUh/nrQis/qsYliPGjtEKf7WA86okcC3s3YFMoRE9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APTECH\\Source\\Repos\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\APTECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\OopPolymorphismOverloading\\OopPolymorphismOverloading.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
