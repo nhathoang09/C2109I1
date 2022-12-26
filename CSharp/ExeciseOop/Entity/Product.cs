@@ -10,7 +10,8 @@
 
         public override string ToString()
         {
-            return $"{{{nameof(Proid)}={Proid}, {nameof(ProName)}={ProName}, {nameof(ProPrice)}={ProPrice.ToString()}, {nameof(ProQuantity)}={ProQuantity.ToString()}, {nameof(ProDate)}={ProDate.ToString()}}}";
+            return $"{{{nameof(Proid)}={Proid}, {nameof(ProName)}={ProName}, {nameof(ProPrice)}={ProPrice.ToString()}, " +
+                $"{nameof(ProQuantity)}={ProQuantity.ToString()}, {nameof(ProDate)}={ProDate.ToString("dd/MM/yyyy h:m:s")}}}";
         }
     }
 }

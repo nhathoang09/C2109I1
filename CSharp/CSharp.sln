@@ -39,7 +39,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClass", "GenericClas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateCsharp", "DelegateCsharp\DelegateCsharp.csproj", "{55ECE0F3-2F4B-45E7-9C6D-F1520980BB27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeciseOop", "ExeciseOop\ExeciseOop.csproj", "{94DC3425-E949-49D5-931D-6D93C96AD3F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExeciseOop", "ExeciseOop\ExeciseOop.csproj", "{94DC3425-E949-49D5-931D-6D93C96AD3F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
