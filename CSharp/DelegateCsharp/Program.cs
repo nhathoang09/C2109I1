@@ -9,3 +9,4 @@ Mathems.Sub(10, 5);
 //Deletegate
 Abc dele = new Mathems().Div;
 dele(10, 5);// safe thread
+

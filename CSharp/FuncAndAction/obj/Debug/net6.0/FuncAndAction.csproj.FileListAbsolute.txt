@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\bin\Debug\net6.0\FuncAndAction.exe
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\bin\Debug\net6.0\FuncAndAction.deps.json
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\bin\Debug\net6.0\FuncAndAction.runtimeconfig.json
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\bin\Debug\net6.0\FuncAndAction.dll
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\bin\Debug\net6.0\FuncAndAction.pdb
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.AssemblyInfo.cs
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.dll
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\refint\FuncAndAction.dll
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.pdb
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\FuncAndAction.genruntimeconfig.cache
+C:\Users\Acer\source\repos\C2109I1\NhatHoang\CSharp\FuncAndAction\obj\Debug\net6.0\ref\FuncAndAction.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BWMkn/ocAtlUWYedJM6MgrQ45tNQAWmir9t0zOutABaXk0UXDqwfpc8SP0ludK7BnpslRDoSZ7OzJybQB6AfZg==",
+  "dgSpecHash": "fedZf4Kr0uwx1ZXzkuwutDoMbOkNRTFj2rSc1Q3Rdh100FjZI4VCuWv1UW9s3T9ppzjI2NhGiW5IL4GFtHwMzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\DelegateCsharp\\DelegateCsharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

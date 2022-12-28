@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\DelegateCsharp\\DelegateCsharp.csproj",
-      "projectName": "Entity",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\DelegateCsharp\\DelegateCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\Tuple\\UsingTuple.csproj",
+      "projectName": "UsingTuple",
+      "projectPath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\Tuple\\UsingTuple.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\Entity\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\source\\repos\\C2109I1\\NhatHoang\\CSharp\\Tuple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
